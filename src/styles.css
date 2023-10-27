@@ -105,3 +105,11 @@ footer {
     background-color: #292929;
     pointer-events: none;
 }
+.chess{
+    padding: 1000rem;
+}
+.chess button{
+        height: 50px;
+        width: 50px;
+        font-size: 40px;
+}
